@@ -3,6 +3,14 @@
 
 - 🔭 I’m currently working on [Eduquest Backend (Django)](https://github.com/xeroxis-xs/EduQuest-Backend-Django)
 
+- 🌱 I’m currently learning **Celery and Redis with Django**
+
+- 👨‍💻 All of my projects are available at [https://github.com/xeroxis-xs?tab=repositories](https://github.com/xeroxis-xs?tab=repositories)
+
+- 💬 Ask me about **Django**
+
+- 📫 How to reach me **teohxisheng@hotmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/xisheng-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xisheng-" height="30" width="40" /></a>
